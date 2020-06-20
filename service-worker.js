@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/polyboard-cutting-list/precache-manifest.fe3d9cd4d15f13ff4300b78924943539.js"
+  "/polyboard-cutting-list/precache-manifest.8b75eefec7e6fec8c208652d3fbedecc.js"
 );
 
 self.addEventListener('message', (event) => {

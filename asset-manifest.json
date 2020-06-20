@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/polyboard-cutting-list/static/css/main.db35bb67.chunk.css",
-    "main.js": "/polyboard-cutting-list/static/js/main.30b07d07.chunk.js",
-    "main.js.map": "/polyboard-cutting-list/static/js/main.30b07d07.chunk.js.map",
+    "main.css": "/polyboard-cutting-list/static/css/main.26a479c1.chunk.css",
+    "main.js": "/polyboard-cutting-list/static/js/main.4d7bb52d.chunk.js",
+    "main.js.map": "/polyboard-cutting-list/static/js/main.4d7bb52d.chunk.js.map",
     "runtime-main.js": "/polyboard-cutting-list/static/js/runtime-main.b86da72b.js",
     "runtime-main.js.map": "/polyboard-cutting-list/static/js/runtime-main.b86da72b.js.map",
-    "static/js/2.0a8ae98b.chunk.js": "/polyboard-cutting-list/static/js/2.0a8ae98b.chunk.js",
-    "static/js/2.0a8ae98b.chunk.js.map": "/polyboard-cutting-list/static/js/2.0a8ae98b.chunk.js.map",
+    "static/js/2.16bc2a2f.chunk.js": "/polyboard-cutting-list/static/js/2.16bc2a2f.chunk.js",
+    "static/js/2.16bc2a2f.chunk.js.map": "/polyboard-cutting-list/static/js/2.16bc2a2f.chunk.js.map",
     "index.html": "/polyboard-cutting-list/index.html",
-    "precache-manifest.fe3d9cd4d15f13ff4300b78924943539.js": "/polyboard-cutting-list/precache-manifest.fe3d9cd4d15f13ff4300b78924943539.js",
+    "precache-manifest.8b75eefec7e6fec8c208652d3fbedecc.js": "/polyboard-cutting-list/precache-manifest.8b75eefec7e6fec8c208652d3fbedecc.js",
     "service-worker.js": "/polyboard-cutting-list/service-worker.js",
-    "static/css/main.db35bb67.chunk.css.map": "/polyboard-cutting-list/static/css/main.db35bb67.chunk.css.map",
-    "static/js/2.0a8ae98b.chunk.js.LICENSE.txt": "/polyboard-cutting-list/static/js/2.0a8ae98b.chunk.js.LICENSE.txt"
+    "static/css/main.26a479c1.chunk.css.map": "/polyboard-cutting-list/static/css/main.26a479c1.chunk.css.map",
+    "static/js/2.16bc2a2f.chunk.js.LICENSE.txt": "/polyboard-cutting-list/static/js/2.16bc2a2f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b86da72b.js",
-    "static/js/2.0a8ae98b.chunk.js",
-    "static/css/main.db35bb67.chunk.css",
-    "static/js/main.30b07d07.chunk.js"
+    "static/js/2.16bc2a2f.chunk.js",
+    "static/css/main.26a479c1.chunk.css",
+    "static/js/main.4d7bb52d.chunk.js"
   ]
 }
