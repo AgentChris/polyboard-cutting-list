@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/polyboard-cutting-list/static/css/main.26a479c1.chunk.css",
-    "main.js": "/polyboard-cutting-list/static/js/main.4d7bb52d.chunk.js",
-    "main.js.map": "/polyboard-cutting-list/static/js/main.4d7bb52d.chunk.js.map",
+    "main.css": "/polyboard-cutting-list/static/css/main.070bf5c7.chunk.css",
+    "main.js": "/polyboard-cutting-list/static/js/main.800fd6bb.chunk.js",
+    "main.js.map": "/polyboard-cutting-list/static/js/main.800fd6bb.chunk.js.map",
     "runtime-main.js": "/polyboard-cutting-list/static/js/runtime-main.b86da72b.js",
     "runtime-main.js.map": "/polyboard-cutting-list/static/js/runtime-main.b86da72b.js.map",
-    "static/js/2.16bc2a2f.chunk.js": "/polyboard-cutting-list/static/js/2.16bc2a2f.chunk.js",
-    "static/js/2.16bc2a2f.chunk.js.map": "/polyboard-cutting-list/static/js/2.16bc2a2f.chunk.js.map",
+    "static/js/2.a3c8f43f.chunk.js": "/polyboard-cutting-list/static/js/2.a3c8f43f.chunk.js",
+    "static/js/2.a3c8f43f.chunk.js.map": "/polyboard-cutting-list/static/js/2.a3c8f43f.chunk.js.map",
     "index.html": "/polyboard-cutting-list/index.html",
-    "precache-manifest.8b75eefec7e6fec8c208652d3fbedecc.js": "/polyboard-cutting-list/precache-manifest.8b75eefec7e6fec8c208652d3fbedecc.js",
+    "precache-manifest.8782c506205a67d6b319a63077da9a35.js": "/polyboard-cutting-list/precache-manifest.8782c506205a67d6b319a63077da9a35.js",
     "service-worker.js": "/polyboard-cutting-list/service-worker.js",
-    "static/css/main.26a479c1.chunk.css.map": "/polyboard-cutting-list/static/css/main.26a479c1.chunk.css.map",
-    "static/js/2.16bc2a2f.chunk.js.LICENSE.txt": "/polyboard-cutting-list/static/js/2.16bc2a2f.chunk.js.LICENSE.txt"
+    "static/css/main.070bf5c7.chunk.css.map": "/polyboard-cutting-list/static/css/main.070bf5c7.chunk.css.map",
+    "static/js/2.a3c8f43f.chunk.js.LICENSE.txt": "/polyboard-cutting-list/static/js/2.a3c8f43f.chunk.js.LICENSE.txt",
+    "static/media/pas_1.png": "/polyboard-cutting-list/static/media/pas_1.40f10473.png",
+    "static/media/pas_2.png": "/polyboard-cutting-list/static/media/pas_2.dbb9b867.png",
+    "static/media/pas_3.png": "/polyboard-cutting-list/static/media/pas_3.8ec31743.png",
+    "static/media/pas_4.png": "/polyboard-cutting-list/static/media/pas_4.c86b1c4c.png",
+    "static/media/pas_5.png": "/polyboard-cutting-list/static/media/pas_5.017323e1.png",
+    "static/media/video-1592675406.mp4": "/polyboard-cutting-list/static/media/video-1592675406.abd8fd1b.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.b86da72b.js",
-    "static/js/2.16bc2a2f.chunk.js",
-    "static/css/main.26a479c1.chunk.css",
-    "static/js/main.4d7bb52d.chunk.js"
+    "static/js/2.a3c8f43f.chunk.js",
+    "static/css/main.070bf5c7.chunk.css",
+    "static/js/main.800fd6bb.chunk.js"
   ]
 }
