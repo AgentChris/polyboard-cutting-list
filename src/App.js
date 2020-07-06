@@ -18,6 +18,7 @@ const TOP_EDGE_INDEX = 4;
 const BOTTOM_EDGE_INDEX = 5;
 const RIGHT_EDGE_INDEX = 6;
 const LEFT_EDGE_INDEX = 7;
+const CABINET_NAME_INDEX = 8;
 
 function App() {
   const componentRef = useRef();
@@ -40,6 +41,7 @@ function App() {
         const bottomEdge = parseInt(attributes[BOTTOM_EDGE_INDEX], 10);
         const rightEdge = parseInt(attributes[RIGHT_EDGE_INDEX], 10);
         const leftEdge = parseInt(attributes[LEFT_EDGE_INDEX], 10);
+        const cabinetName = attributes[CABINET_NAME_INDEX];
         if (topEdge + bottomEdge + rightEdge + leftEdge===4) {
           edgeText = 'roata';
         } else {
@@ -56,7 +58,8 @@ function App() {
           quantity: attributes[QUANTITY_INDEX],
           length: heightIsSmaller ? parseFloat(attributes[WIDTH_INDEX]):parseFloat(attributes[HEIGHT_INDEX]),
           width: !heightIsSmaller ? parseFloat(attributes[WIDTH_INDEX]):parseFloat(attributes[HEIGHT_INDEX]),
-          edgeText: edgeText
+          edgeText: edgeText,
+          cabinetName: cabinetName,
         });
       }
     });

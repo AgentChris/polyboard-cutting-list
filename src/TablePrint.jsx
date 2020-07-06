@@ -9,6 +9,7 @@ class TablePrint extends React.Component {
         <Table striped bordered>
           <thead>
           <tr>
+            <th>Nume corp</th>
             <th>Nume si grosime</th>
             <th>Cantitate</th>
             <th>Lungime</th>
@@ -18,8 +19,8 @@ class TablePrint extends React.Component {
           </thead>
           <tbody>
           {this.props.table.sort((a,b)=>{
-            const nameA = a.name.toUpperCase(); // ignore upper and lowercase
-            const nameB = b.name.toUpperCase(); // ignore upper and lowercase
+            const nameA = a.cabinetName.toUpperCase(); // ignore upper and lowercase
+            const nameB = b.cabinetName.toUpperCase(); // ignore upper and lowercase
             if (nameA < nameB) {
               return -1;
             }
@@ -31,6 +32,7 @@ class TablePrint extends React.Component {
             return 0;
           }).map((tableLine, index) => (
             <tr key={index}>
+              <td>{tableLine.cabinetName}</td>
               <td>{tableLine.name}</td>
               <td>{tableLine.quantity}</td>
               <td>{tableLine.length}</td>
